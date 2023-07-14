@@ -1,5 +1,3 @@
 docker build -t webapp:latest .
 docker tag webapp:latest phonglai0809/webapp:latest
 docker push phonglai0809/webapp:latest
-
-link: http://ousocialnetwork.id.vn/webapp/
